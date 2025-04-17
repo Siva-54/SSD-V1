@@ -37,5 +37,3 @@
 - **Client**: React(vite.js).
 - **Server**: Node, Express, webSocket.
 
-
-🚨 **Note** : Not fully responsive in mobile phone screen
